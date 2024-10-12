@@ -10,7 +10,6 @@ positive environment for users of all backgrounds.
 - **Symbol**: PERRO
 - **Network**: Solana
 - **Decimals**: 9
-- **Contract Address**: PerLPCvBFXYduH9TyZqvmUXPdmG1nTeqVKqaRqwTco6
 - **Total Supply**:  1,000,000,000 PERRO
 
 ## Key Features
