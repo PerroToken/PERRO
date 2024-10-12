@@ -49,7 +49,7 @@ To buy Perro, you will need a wallet that supports Solana tokens. Once you have 
 
 [Perro Whitepaper](https://github.com/PerroToken/PERRO/blob/main/whitepaper.pdf)
 
-![Perro Logo](https://github.com/PerroToken/PERRO/blob/main/perro%20(1).PNG)
+[Perro Whitepaper](https://github.com/PerroToken/PERRO/blob/main/perropaperenson.pdf)
 ---
 
 This README provides all necessary details about the Perro Token and its future roadmap. For more information, check out the links provided!
